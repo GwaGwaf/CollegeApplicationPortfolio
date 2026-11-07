@@ -17,9 +17,10 @@
 - The images and GIFs associated with the projects discussed in the previous section will not be mentioned.
 
 ### All of these files come from digital art class; which are listed below:
-- SkullStillLifeProject: Made using Piskel, the assignment was to be a still life project with a skull, so I made a Mosasaurus skull
-- Spinogami - Part of my final project in my first year of digital art, made with Adobe Illustrator, designed to be a vector illustration of an origami Spinosaurus
-- GharialOrigami - Another part from the same final project, made with Adobe Illustrator, designed to be a vector illustration of an origami Gharial
-- HummingbirdOrigami - The last part from the final project included in this portfolio, made with Adobe Illustrator, designed to be a vector illustration of an origami hummingbird
-- LavaSwampRoom - Made using Piskel, the assignment was to create a pixel isometric room, so I made a room with lava in a swampy environment
-- MiltonDigitalPainting - Made using Adobe Photoshop, the assignment was simply a Photoshop drawing with little to no restrictions on what could be done, so I made a cyborg version of my teacher's cat Milton dreaming of fiery destruction, mostly because the idea seemed funny to me. The image it was drawn on was a real image of Milton.
+
+- Image 1 - Another part from the same final project, made with Adobe Illustrator, designed to be a vector illustration of an origami Gharial
+- Image 2 - The last part from the final project included in this portfolio, made with Adobe Illustrator, designed to be a vector illustration of an origami hummingbird
+- Image 3 - Part of my final project in my first year of digital art, made with Adobe Illustrator, designed to be a vector illustration of an origami Spinosaurus
+- Image 4 - Made using Piskel, the assignment was to create a pixel isometric room, so I made a room with lava in a swampy environment
+- Image 7 - Made using Piskel, the assignment was to be a still life project with a skull, so I made a Mosasaurus skull
+- Image 8 - Made using Adobe Photoshop, the assignment was simply a Photoshop drawing with little to no restrictions on what could be done, so I made a cyborg version of my teacher's cat Milton dreaming of fiery destruction, mostly because the idea seemed funny to me. The image it was drawn on was a real image of Milton.
