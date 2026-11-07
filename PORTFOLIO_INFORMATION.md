@@ -14,7 +14,7 @@
 
 - Art Images 1, 2, and 3 - Made with Adobe Illustrator. Part of my final project for my Digital Art 1. They are vector illustrations of an origami Gharial (a type of crocodilian), an origami Ruby-Throated Hummingbird, and an origami Spinosaurus. 
 - Art Image 4 - Made using Piskel. The assignment was to create a pixel isometric room, so I made a room with lava in a swampy environment.
-- Art Images 5 and 6 (and Art GIFs 1 and 2) - Made with Piskel. See above commentary for Video 4.
+- Art Images 5 and 6 (and Art GIFs 1 and 2) - Related to Project 2. Made with Piskel. [Describe what they are!]
 - Art Image 7 - Made using Piskel. The assignment was to create a still life incorporating a skull; I made a Mosasaurus skull.
 - Art Image 8 - Made using Adobe Photoshop. The assignment was to create a Photoshop drawing, with little to no restrictions on its parameters. I made a cyborg version of my teacher's cat Milton dreaming of fiery destruction (mostly because the idea seemed funny to me). The image it was drawn on was a real image of Milton.
 
