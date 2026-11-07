@@ -2,7 +2,7 @@
 
 ## Videos:
 
-- Videos 1, 2, and 3 are from the collaborative Unity game that I made in Game Design and Development class; the assets made by my teammates were the art for the water, the angler fish enemy, the seagull enemy, and the dungeon floors found in the first video. Every script and all other art assets, including sound design, are of my own creation.
+- Videos 1, 2, and 3 are from the collaborative Unity game that I made in Game Design and Development class; the assets made by my teammates were the art for the water, the angler fish enemy, the seagull enemy, and the dungeon floors found in the first video. Every script and all other art assets, including sound design (using Online Sequencer), are of my own creation.
 
 - Video 4's game clip came from an in-progress game I was making in Godot shortly after I finished my time in HelloWorld Coding Club; it served as my first independent game making experience using a professional game engine. I ended up abandoning the project before completion because switching from an old computer to a new one created technical complications in the original program. Art GIFs 1 and 2, as well as Art Images 5 and 6, were assets that I planned to add to the game before the project was shelved. The project file for this game is Project 2.
 
