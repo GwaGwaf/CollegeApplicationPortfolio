@@ -6,7 +6,7 @@
 
 - Video 4's game clip came from an in-progress game I was making in Godot shortly after I finished my time in HelloWorld Coding Club; it served as my first independent game making experience using a professional game engine. I ended up abandoning the project before completion because switching from an old computer to a new one created technical complications in the original program. Art GIFs 1 and 2, as well as Art Images 5 and 6, were assets that I planned to add to the game before the project was shelved. The project file for this game is Project 2.
 
-- Video 5 is from a game that, while not the most important thing in this portfolio, was my first true Godot game making experience. I created it during my time in HelloWorld Coding Club, with the instruction and help of the club's founder. (Because it was my first game project, the instructor advised me to just pull images and sounds directly from the internet.)
+- Video 5 is from a game that, while not the most important thing in this portfolio, was my first true Godot game making experience. The assignment was to make our own version of Space Invaders. I created it during my time in HelloWorld Coding Club, with the instruction and help of the club's founder. (Because it was my first game project, the instructor advised me to just pull images and sounds directly from the internet.) The project file for this game is Project 1.
 
 - Video 6 was made in a digital art class using Adobe Animate; the assignment was to create a looped video that was reminiscent of old LoFi YouTube video backgrounds.
 
