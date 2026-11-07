@@ -12,7 +12,7 @@
 
 ## Images and GIFs
 
-- Art Images 1, 2, and 3 - Made with Adobe Illustrator. Part of my final project for my Digital Art 1 class. They are vector illustrations of an origami Gharial (a type of crocodilian), an origami Ruby-Throated Hummingbird, and an origami Spinosaurus. 
+- Art Images 1, 2, and 3 - Made with Adobe Illustrator. Part of my final project for my Digital Art 1. They are vector illustrations of an origami Gharial (a type of crocodilian), an origami Ruby-Throated Hummingbird, and an origami Spinosaurus. 
 - Art Image 4 - Made using Piskel. The assignment was to create a pixel isometric room, so I made a room with lava in a swampy environment.
 - Art Images 5 and 6 (and Art GIFs 1 and 2) - Made with Piskel. See above commentary for Video 4.
 - Art Image 7 - Made using Piskel. The assignment was to create a still life incorporating a skull; I made a Mosasaurus skull.
